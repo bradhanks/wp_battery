@@ -1,0 +1,547 @@
+2025-07-17 15:11:56,405 - MainThread - INFO - Initializing database 'site_analysis_results.db'...
+2025-07-17 15:11:56,406 - MainThread - INFO - Database initialization complete.
+2025-07-17 15:11:56,406 - MainThread - INFO - 🚀 Starting Master Analysis for 105 domains with 10 workers...
+2025-07-17 15:11:56,406 - Worker_0 - INFO - Starting full analysis for advanceddentalquincy.com
+2025-07-17 15:11:56,406 - Worker_1 - INFO - Starting full analysis for ariaperio.com
+2025-07-17 15:11:56,407 - Worker_2 - INFO - Starting full analysis for berkeleyperioimplants.com
+2025-07-17 15:11:56,407 - Worker_3 - INFO - Starting full analysis for berkshireperio.com
+2025-07-17 15:11:56,408 - Worker_4 - INFO - Starting full analysis for bigskysmilesandsedation.com
+2025-07-17 15:11:56,408 - Worker_0 - INFO - [advanceddentalquincy.com] Starting WordPress stats collection
+2025-07-17 15:11:56,408 - Worker_5 - INFO - Starting full analysis for biologicalcenterfordentistry.com
+2025-07-17 15:11:56,409 - Worker_6 - INFO - Starting full analysis for bluegrassdentistry.com
+2025-07-17 15:11:56,409 - Worker_7 - INFO - Starting full analysis for brewerdentistry.com
+2025-07-17 15:11:56,409 - Worker_8 - INFO - Starting full analysis for campcreekdental.com
+2025-07-17 15:11:56,410 - Worker_9 - INFO - Starting full analysis for canyonridgeperio.com
+2025-07-17 15:11:56,410 - Worker_0 - WARNING - [advanceddentalquincy.com] Could not authenticate with any known credentials
+2025-07-17 15:12:01,578 - Worker_9 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:01,579 - Worker_0 - ERROR - [advanceddentalquincy.com] Failed to save stats to DB: database is locked
+2025-07-17 15:12:01,581 - Worker_9 - INFO - Completed analysis for canyonridgeperio.com
+2025-07-17 15:12:01,581 - Worker_2 - INFO - Completed analysis for berkeleyperioimplants.com
+2025-07-17 15:12:01,581 - Worker_3 - INFO - Completed analysis for berkshireperio.com
+2025-07-17 15:12:01,635 - Worker_8 - INFO - Completed analysis for campcreekdental.com
+2025-07-17 15:12:01,635 - Worker_9 - INFO - Starting full analysis for cardinalparkfamilydental.com
+2025-07-17 15:12:01,635 - Worker_1 - INFO - Completed analysis for ariaperio.com
+2025-07-17 15:12:01,635 - Worker_5 - INFO - Completed analysis for biologicalcenterfordentistry.com
+2025-07-17 15:12:01,635 - MainThread - INFO - ✅ Thread for canyonridgeperio.com finished successfully.
+2025-07-17 15:12:01,635 - Worker_4 - INFO - Completed analysis for bigskysmilesandsedation.com
+2025-07-17 15:12:01,635 - Worker_7 - INFO - Completed analysis for brewerdentistry.com
+2025-07-17 15:12:01,635 - Worker_2 - INFO - Starting full analysis for castlepinesdentalcare.com
+2025-07-17 15:12:01,635 - Worker_0 - INFO - [advanceddentalquincy.com] Completed WordPress stats collection
+2025-07-17 15:12:01,635 - Worker_6 - INFO - Completed analysis for bluegrassdentistry.com
+2025-07-17 15:12:01,635 - Worker_3 - INFO - Starting full analysis for centerformoderndentistry.com
+2025-07-17 15:12:01,636 - Worker_8 - INFO - Starting full analysis for cliffsideparkdental.com
+2025-07-17 15:12:01,636 - Worker_1 - INFO - Starting full analysis for clovisfamilydentistry.com
+2025-07-17 15:12:01,636 - Worker_5 - INFO - Starting full analysis for codelli-perio.com
+2025-07-17 15:12:01,636 - MainThread - INFO - ✅ Thread for berkeleyperioimplants.com finished successfully.
+2025-07-17 15:12:01,636 - Worker_4 - INFO - Starting full analysis for connecticutperiodontist.com
+2025-07-17 15:12:01,636 - Worker_7 - INFO - Starting full analysis for cook-perio.com
+2025-07-17 15:12:01,637 - Worker_6 - INFO - Starting full analysis for cornerstoneperio.com
+2025-07-17 15:12:01,637 - Worker_0 - INFO - [advanceddentalquincy.com] Running comprehensive WordPress security audit...
+2025-07-17 15:12:01,638 - MainThread - INFO - ✅ Thread for berkshireperio.com finished successfully.
+2025-07-17 15:12:01,639 - MainThread - INFO - ✅ Thread for campcreekdental.com finished successfully.
+2025-07-17 15:12:01,640 - MainThread - INFO - ✅ Thread for ariaperio.com finished successfully.
+2025-07-17 15:12:01,640 - MainThread - INFO - ✅ Thread for biologicalcenterfordentistry.com finished successfully.
+2025-07-17 15:12:01,640 - MainThread - INFO - ✅ Thread for bigskysmilesandsedation.com finished successfully.
+2025-07-17 15:12:01,641 - MainThread - INFO - ✅ Thread for brewerdentistry.com finished successfully.
+2025-07-17 15:12:01,641 - MainThread - INFO - ✅ Thread for bluegrassdentistry.com finished successfully.
+2025-07-17 15:12:02,808 - Worker_0 - ERROR - DB Error logging result for User Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:04,873 - Worker_0 - ERROR - DB Error logging result for Sensitive File Access: table hardening_results has no column named severity
+2025-07-17 15:12:05,978 - Worker_0 - ERROR - DB Error logging result for Directory Protection: table hardening_results has no column named severity
+2025-07-17 15:12:06,685 - Worker_0 - ERROR - DB Error logging result for Version Disclosure: table hardening_results has no column named severity
+2025-07-17 15:12:06,806 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,806 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,807 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,807 - Worker_2 - INFO - Completed analysis for castlepinesdentalcare.com
+2025-07-17 15:12:06,807 - Worker_8 - INFO - Completed analysis for cliffsideparkdental.com
+2025-07-17 15:12:06,808 - Worker_2 - INFO - Starting full analysis for creekwooddentalarts.com
+2025-07-17 15:12:06,808 - Worker_3 - INFO - Completed analysis for centerformoderndentistry.com
+2025-07-17 15:12:06,808 - Worker_8 - INFO - Starting full analysis for dentalartcare.com
+2025-07-17 15:12:06,808 - MainThread - INFO - ✅ Thread for castlepinesdentalcare.com finished successfully.
+2025-07-17 15:12:06,809 - Worker_3 - INFO - Starting full analysis for dentalimplantsandoralsurgery.com
+2025-07-17 15:12:06,809 - Worker_9 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,809 - MainThread - INFO - ✅ Thread for cliffsideparkdental.com finished successfully.
+2025-07-17 15:12:06,810 - Worker_9 - INFO - Completed analysis for cardinalparkfamilydental.com
+2025-07-17 15:12:06,811 - MainThread - INFO - ✅ Thread for centerformoderndentistry.com finished successfully.
+2025-07-17 15:12:06,811 - Worker_9 - INFO - Starting full analysis for dentalimplantsofocala.com
+2025-07-17 15:12:06,811 - MainThread - INFO - ✅ Thread for cardinalparkfamilydental.com finished successfully.
+2025-07-17 15:12:06,820 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,820 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,820 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,820 - Worker_7 - INFO - Completed analysis for cook-perio.com
+2025-07-17 15:12:06,820 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,820 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:06,820 - Worker_5 - INFO - Completed analysis for codelli-perio.com
+2025-07-17 15:12:06,821 - Worker_7 - INFO - Starting full analysis for dentalstarz.com
+2025-07-17 15:12:06,821 - Worker_6 - INFO - Completed analysis for cornerstoneperio.com
+2025-07-17 15:12:06,821 - MainThread - INFO - ✅ Thread for cook-perio.com finished successfully.
+2025-07-17 15:12:06,821 - Worker_5 - INFO - Starting full analysis for dentistofcharleston.com
+2025-07-17 15:12:06,821 - Worker_4 - INFO - Completed analysis for connecticutperiodontist.com
+2025-07-17 15:12:06,821 - Worker_1 - INFO - Completed analysis for clovisfamilydentistry.com
+2025-07-17 15:12:06,822 - Worker_6 - INFO - Starting full analysis for dentistrybydesignmwc.com
+2025-07-17 15:12:06,822 - MainThread - INFO - ✅ Thread for codelli-perio.com finished successfully.
+2025-07-17 15:12:06,824 - Worker_4 - INFO - Starting full analysis for eastmanonline.com
+2025-07-17 15:12:06,824 - Worker_1 - INFO - Starting full analysis for forsythperioimplants.com
+2025-07-17 15:12:06,825 - MainThread - INFO - ✅ Thread for cornerstoneperio.com finished successfully.
+2025-07-17 15:12:06,825 - MainThread - INFO - ✅ Thread for connecticutperiodontist.com finished successfully.
+2025-07-17 15:12:06,825 - MainThread - INFO - ✅ Thread for clovisfamilydentistry.com finished successfully.
+2025-07-17 15:12:06,977 - Worker_0 - ERROR - DB Error logging result for Security Headers: table hardening_results has no column named severity
+2025-07-17 15:12:07,547 - Worker_0 - ERROR - DB Error logging result for Login Security: table hardening_results has no column named severity
+2025-07-17 15:12:07,835 - Worker_0 - ERROR - DB Error logging result for XML-RPC Security: table hardening_results has no column named severity
+2025-07-17 15:12:08,269 - Worker_0 - ERROR - DB Error logging result for REST API Security: table hardening_results has no column named severity
+2025-07-17 15:12:11,959 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,960 - Worker_8 - INFO - Completed analysis for dentalartcare.com
+2025-07-17 15:12:11,960 - Worker_8 - INFO - Starting full analysis for friscoapneaandsnoringtreatment.com
+2025-07-17 15:12:11,960 - MainThread - INFO - ✅ Thread for dentalartcare.com finished successfully.
+2025-07-17 15:12:11,985 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,985 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,985 - Worker_9 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,986 - Worker_3 - INFO - Completed analysis for dentalimplantsandoralsurgery.com
+2025-07-17 15:12:11,986 - Worker_2 - INFO - Completed analysis for creekwooddentalarts.com
+2025-07-17 15:12:11,986 - Worker_9 - INFO - Completed analysis for dentalimplantsofocala.com
+2025-07-17 15:12:11,986 - Worker_3 - INFO - Starting full analysis for garhardtdds.com
+2025-07-17 15:12:11,986 - MainThread - INFO - ✅ Thread for dentalimplantsandoralsurgery.com finished successfully.
+2025-07-17 15:12:11,987 - Worker_2 - INFO - Starting full analysis for genuinesmilespa.com
+2025-07-17 15:12:11,987 - Worker_9 - INFO - Starting full analysis for gloucesterdental.com
+2025-07-17 15:12:11,987 - MainThread - INFO - ✅ Thread for creekwooddentalarts.com finished successfully.
+2025-07-17 15:12:11,987 - MainThread - INFO - ✅ Thread for dentalimplantsofocala.com finished successfully.
+2025-07-17 15:12:11,994 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,994 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,995 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,995 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,995 - Worker_1 - INFO - Completed analysis for forsythperioimplants.com
+2025-07-17 15:12:11,995 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:11,995 - Worker_6 - INFO - Completed analysis for dentistrybydesignmwc.com
+2025-07-17 15:12:11,995 - Worker_1 - INFO - Starting full analysis for gracedental.org
+2025-07-17 15:12:11,995 - Worker_5 - INFO - Completed analysis for dentistofcharleston.com
+2025-07-17 15:12:11,995 - Worker_4 - INFO - Completed analysis for eastmanonline.com
+2025-07-17 15:12:11,995 - MainThread - INFO - ✅ Thread for forsythperioimplants.com finished successfully.
+2025-07-17 15:12:11,996 - Worker_7 - INFO - Completed analysis for dentalstarz.com
+2025-07-17 15:12:11,996 - Worker_6 - INFO - Starting full analysis for greatlakesperio.com
+2025-07-17 15:12:11,996 - Worker_5 - INFO - Starting full analysis for hopkinsdentalclinic.com
+2025-07-17 15:12:11,996 - Worker_4 - INFO - Starting full analysis for idahofallsidahodentist.com
+2025-07-17 15:12:11,996 - MainThread - INFO - ✅ Thread for dentistrybydesignmwc.com finished successfully.
+2025-07-17 15:12:11,997 - Worker_7 - INFO - Starting full analysis for idahoperio.com
+2025-07-17 15:12:11,997 - MainThread - INFO - ✅ Thread for dentistofcharleston.com finished successfully.
+2025-07-17 15:12:11,998 - MainThread - INFO - ✅ Thread for eastmanonline.com finished successfully.
+2025-07-17 15:12:11,998 - MainThread - INFO - ✅ Thread for dentalstarz.com finished successfully.
+2025-07-17 15:12:12,787 - Worker_0 - ERROR - DB Error logging result for Admin Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:14,150 - Worker_0 - ERROR - DB Error logging result for Backup File Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:14,494 - Worker_0 - ERROR - DB Error logging result for Debug Information: table hardening_results has no column named severity
+2025-07-17 15:12:17,146 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,146 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,146 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,147 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,147 - Worker_5 - INFO - Completed analysis for hopkinsdentalclinic.com
+2025-07-17 15:12:17,147 - Worker_6 - INFO - Completed analysis for greatlakesperio.com
+2025-07-17 15:12:17,147 - Worker_8 - INFO - Completed analysis for friscoapneaandsnoringtreatment.com
+2025-07-17 15:12:17,148 - Worker_7 - INFO - Completed analysis for idahoperio.com
+2025-07-17 15:12:17,148 - Worker_5 - INFO - Starting full analysis for implants4all.com
+2025-07-17 15:12:17,148 - MainThread - INFO - ✅ Thread for hopkinsdentalclinic.com finished successfully.
+2025-07-17 15:12:17,148 - Worker_6 - INFO - Starting full analysis for iriedental.com
+2025-07-17 15:12:17,148 - Worker_8 - INFO - Starting full analysis for johnsavukinasdds.com
+2025-07-17 15:12:17,148 - Worker_7 - INFO - Starting full analysis for keydentalgrp.com
+2025-07-17 15:12:17,149 - MainThread - INFO - ✅ Thread for greatlakesperio.com finished successfully.
+2025-07-17 15:12:17,150 - MainThread - INFO - ✅ Thread for friscoapneaandsnoringtreatment.com finished successfully.
+2025-07-17 15:12:17,150 - MainThread - INFO - ✅ Thread for idahoperio.com finished successfully.
+2025-07-17 15:12:17,159 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,160 - Worker_3 - INFO - Completed analysis for garhardtdds.com
+2025-07-17 15:12:17,160 - Worker_3 - INFO - Starting full analysis for lakeviewdentistry.com
+2025-07-17 15:12:17,160 - MainThread - INFO - ✅ Thread for garhardtdds.com finished successfully.
+2025-07-17 15:12:17,165 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,165 - Worker_4 - INFO - Completed analysis for idahofallsidahodentist.com
+2025-07-17 15:12:17,165 - Worker_4 - INFO - Starting full analysis for laneoralsurgery.com
+2025-07-17 15:12:17,165 - MainThread - INFO - ✅ Thread for idahofallsidahodentist.com finished successfully.
+2025-07-17 15:12:17,168 - Worker_9 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,169 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,169 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:17,169 - Worker_9 - INFO - Completed analysis for gloucesterdental.com
+2025-07-17 15:12:17,169 - Worker_1 - INFO - Completed analysis for gracedental.org
+2025-07-17 15:12:17,169 - Worker_9 - INFO - Starting full analysis for lastingdentistry.com
+2025-07-17 15:12:17,169 - Worker_2 - INFO - Completed analysis for genuinesmilespa.com
+2025-07-17 15:12:17,169 - MainThread - INFO - ✅ Thread for gloucesterdental.com finished successfully.
+2025-07-17 15:12:17,169 - Worker_1 - INFO - Starting full analysis for leedydental.com
+2025-07-17 15:12:17,170 - Worker_2 - INFO - Starting full analysis for lexingtonparkdentist.com
+2025-07-17 15:12:17,170 - MainThread - INFO - ✅ Thread for gracedental.org finished successfully.
+2025-07-17 15:12:17,172 - MainThread - INFO - ✅ Thread for genuinesmilespa.com finished successfully.
+2025-07-17 15:12:19,509 - Worker_0 - ERROR - DB Error logging result for Plugin Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:19,858 - Worker_0 - ERROR - DB Error logging result for Theme Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:20,856 - Worker_0 - ERROR - DB Error logging result for Upload Security: table hardening_results has no column named severity
+2025-07-17 15:12:21,033 - Worker_0 - ERROR - DB Error logging result for SSL Configuration: table hardening_results has no column named severity
+2025-07-17 15:12:21,033 - Worker_0 - INFO - [advanceddentalquincy.com] Security audit completed
+2025-07-17 15:12:21,666 - Worker_0 - INFO - [advanceddentalquincy.com] Found 50 pages to analyze.
+2025-07-17 15:12:21,876 - Worker_9 - INFO - [lastingdentistry.com] Starting WordPress stats collection
+2025-07-17 15:12:21,880 - Worker_9 - WARNING - [lastingdentistry.com] Could not authenticate with any known credentials
+2025-07-17 15:12:22,309 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,309 - Worker_4 - INFO - Completed analysis for laneoralsurgery.com
+2025-07-17 15:12:22,310 - Worker_4 - INFO - Starting full analysis for lutzendo.com
+2025-07-17 15:12:22,310 - MainThread - INFO - ✅ Thread for laneoralsurgery.com finished successfully.
+2025-07-17 15:12:22,312 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,313 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,313 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,313 - Worker_8 - INFO - Completed analysis for johnsavukinasdds.com
+2025-07-17 15:12:22,313 - Worker_6 - INFO - Completed analysis for iriedental.com
+2025-07-17 15:12:22,313 - Worker_5 - INFO - Completed analysis for implants4all.com
+2025-07-17 15:12:22,313 - Worker_8 - INFO - Starting full analysis for majordentalclinics.com
+2025-07-17 15:12:22,313 - MainThread - INFO - ✅ Thread for johnsavukinasdds.com finished successfully.
+2025-07-17 15:12:22,313 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,314 - Worker_6 - INFO - Starting full analysis for michiganimplantcenter.com
+2025-07-17 15:12:22,314 - Worker_5 - INFO - Starting full analysis for middletennesseeperio.com
+2025-07-17 15:12:22,314 - MainThread - INFO - ✅ Thread for iriedental.com finished successfully.
+2025-07-17 15:12:22,315 - Worker_7 - INFO - Completed analysis for keydentalgrp.com
+2025-07-17 15:12:22,315 - MainThread - INFO - ✅ Thread for implants4all.com finished successfully.
+2025-07-17 15:12:22,315 - Worker_7 - INFO - Starting full analysis for midwestoms.com
+2025-07-17 15:12:22,315 - MainThread - INFO - ✅ Thread for keydentalgrp.com finished successfully.
+2025-07-17 15:12:22,335 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,335 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,335 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:22,336 - Worker_2 - INFO - Completed analysis for lexingtonparkdentist.com
+2025-07-17 15:12:22,336 - Worker_3 - INFO - Completed analysis for lakeviewdentistry.com
+2025-07-17 15:12:22,336 - Worker_2 - INFO - Starting full analysis for morganhillsmiles.com
+2025-07-17 15:12:22,336 - Worker_1 - INFO - Completed analysis for leedydental.com
+2025-07-17 15:12:22,336 - MainThread - INFO - ✅ Thread for lexingtonparkdentist.com finished successfully.
+2025-07-17 15:12:22,336 - Worker_3 - INFO - Starting full analysis for nashvilleperio.com
+2025-07-17 15:12:22,336 - Worker_1 - INFO - Starting full analysis for noahsmilegroup.com
+2025-07-17 15:12:22,337 - MainThread - INFO - ✅ Thread for lakeviewdentistry.com finished successfully.
+2025-07-17 15:12:22,337 - MainThread - INFO - ✅ Thread for leedydental.com finished successfully.
+2025-07-17 15:12:27,043 - Worker_0 - ERROR - DB Error logging SEO issue for site ID 1: database is locked
+2025-07-17 15:12:27,043 - Worker_9 - ERROR - [lastingdentistry.com] Failed to save stats to DB: database is locked
+2025-07-17 15:12:27,044 - Worker_0 - INFO - Starting full analysis for northbostonoralsurgery.com
+2025-07-17 15:12:27,045 - MainThread - ERROR - A thread generated an unhandled exception: run_local_seo_audits() takes 1 positional argument but 4 were given
+Traceback (most recent call last):
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 114, in main
+    result_domain = future.result()
+                    ^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 82, in run_full_analysis_on_domain
+    analyze_single_page(conn, session, site_id, url, domain)
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 59, in analyze_single_page
+    audit_local_seo.run_local_seo_audits(conn, site_id, url, soup)
+TypeError: run_local_seo_audits() takes 1 positional argument but 4 were given
+2025-07-17 15:12:27,045 - Worker_9 - INFO - [lastingdentistry.com] Completed WordPress stats collection
+2025-07-17 15:12:27,047 - Worker_9 - INFO - [lastingdentistry.com] Running comprehensive WordPress security audit...
+2025-07-17 15:12:27,490 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,491 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,491 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,491 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,491 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,491 - Worker_5 - INFO - Completed analysis for middletennesseeperio.com
+2025-07-17 15:12:27,492 - Worker_6 - INFO - Completed analysis for michiganimplantcenter.com
+2025-07-17 15:12:27,492 - Worker_8 - INFO - Completed analysis for majordentalclinics.com
+2025-07-17 15:12:27,492 - Worker_5 - INFO - Starting full analysis for northbostonoralsurgerygroup.com
+2025-07-17 15:12:27,492 - MainThread - INFO - ✅ Thread for middletennesseeperio.com finished successfully.
+2025-07-17 15:12:27,492 - Worker_4 - INFO - Completed analysis for lutzendo.com
+2025-07-17 15:12:27,492 - Worker_7 - INFO - Completed analysis for midwestoms.com
+2025-07-17 15:12:27,493 - Worker_6 - INFO - Starting full analysis for novaperiohealth.com
+2025-07-17 15:12:27,493 - Worker_8 - INFO - Starting full analysis for nwaperio.com
+2025-07-17 15:12:27,493 - MainThread - INFO - ✅ Thread for michiganimplantcenter.com finished successfully.
+2025-07-17 15:12:27,493 - Worker_4 - INFO - Starting full analysis for oralsurgerytexas.com
+2025-07-17 15:12:27,494 - Worker_7 - INFO - Starting full analysis for palmharbordentistry.com
+2025-07-17 15:12:27,494 - MainThread - INFO - ✅ Thread for majordentalclinics.com finished successfully.
+2025-07-17 15:12:27,495 - MainThread - INFO - ✅ Thread for lutzendo.com finished successfully.
+2025-07-17 15:12:27,495 - MainThread - INFO - ✅ Thread for midwestoms.com finished successfully.
+2025-07-17 15:12:27,507 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,507 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,507 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:27,508 - Worker_3 - INFO - Completed analysis for nashvilleperio.com
+2025-07-17 15:12:27,508 - Worker_2 - INFO - Completed analysis for morganhillsmiles.com
+2025-07-17 15:12:27,508 - Worker_1 - INFO - Completed analysis for noahsmilegroup.com
+2025-07-17 15:12:27,508 - Worker_3 - INFO - Starting full analysis for perio-implant.com
+2025-07-17 15:12:27,508 - Worker_2 - INFO - Starting full analysis for periodentalimplants.com
+2025-07-17 15:12:27,508 - MainThread - INFO - ✅ Thread for nashvilleperio.com finished successfully.
+2025-07-17 15:12:27,508 - Worker_1 - INFO - Starting full analysis for periodontalcenters.com
+2025-07-17 15:12:27,509 - MainThread - INFO - ✅ Thread for morganhillsmiles.com finished successfully.
+2025-07-17 15:12:27,509 - MainThread - INFO - ✅ Thread for noahsmilegroup.com finished successfully.
+2025-07-17 15:12:31,663 - Worker_9 - ERROR - DB Error logging result for User Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:32,219 - Worker_0 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,219 - Worker_0 - INFO - Completed analysis for northbostonoralsurgery.com
+2025-07-17 15:12:32,219 - Worker_0 - INFO - Starting full analysis for periodontalmedicine.org
+2025-07-17 15:12:32,219 - MainThread - INFO - ✅ Thread for northbostonoralsurgery.com finished successfully.
+2025-07-17 15:12:32,532 - Worker_9 - ERROR - DB Error logging result for Sensitive File Access: table hardening_results has no column named severity
+2025-07-17 15:12:32,656 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,656 - Worker_7 - INFO - Completed analysis for palmharbordentistry.com
+2025-07-17 15:12:32,657 - Worker_7 - INFO - Starting full analysis for perioimplantsnyc.com
+2025-07-17 15:12:32,657 - MainThread - INFO - ✅ Thread for palmharbordentistry.com finished successfully.
+2025-07-17 15:12:32,661 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,661 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,661 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,661 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,661 - Worker_8 - INFO - Completed analysis for nwaperio.com
+2025-07-17 15:12:32,661 - Worker_6 - INFO - Completed analysis for novaperiohealth.com
+2025-07-17 15:12:32,662 - Worker_5 - INFO - Completed analysis for northbostonoralsurgerygroup.com
+2025-07-17 15:12:32,662 - Worker_4 - INFO - Completed analysis for oralsurgerytexas.com
+2025-07-17 15:12:32,662 - Worker_8 - INFO - Starting full analysis for pidentists.com
+2025-07-17 15:12:32,662 - MainThread - INFO - ✅ Thread for nwaperio.com finished successfully.
+2025-07-17 15:12:32,662 - Worker_6 - INFO - Starting full analysis for pinnacleperio.com
+2025-07-17 15:12:32,662 - Worker_5 - INFO - Starting full analysis for premierimplantcenters.com
+2025-07-17 15:12:32,662 - Worker_4 - INFO - Starting full analysis for progressivedental.com
+2025-07-17 15:12:32,663 - MainThread - INFO - ✅ Thread for novaperiohealth.com finished successfully.
+2025-07-17 15:12:32,663 - MainThread - INFO - ✅ Thread for northbostonoralsurgerygroup.com finished successfully.
+2025-07-17 15:12:32,663 - MainThread - INFO - ✅ Thread for oralsurgerytexas.com finished successfully.
+2025-07-17 15:12:32,677 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,677 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,677 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:32,677 - Worker_2 - INFO - Completed analysis for periodentalimplants.com
+2025-07-17 15:12:32,678 - Worker_3 - INFO - Completed analysis for perio-implant.com
+2025-07-17 15:12:32,678 - Worker_1 - INFO - Completed analysis for periodontalcenters.com
+2025-07-17 15:12:32,678 - Worker_2 - INFO - Starting full analysis for puredentalgroup.com
+2025-07-17 15:12:32,678 - MainThread - INFO - ✅ Thread for periodentalimplants.com finished successfully.
+2025-07-17 15:12:32,678 - Worker_3 - INFO - Starting full analysis for qdentalclinic.com
+2025-07-17 15:12:32,678 - Worker_1 - INFO - Starting full analysis for redrockperio.com
+2025-07-17 15:12:32,678 - MainThread - INFO - ✅ Thread for perio-implant.com finished successfully.
+2025-07-17 15:12:32,679 - MainThread - INFO - ✅ Thread for periodontalcenters.com finished successfully.
+2025-07-17 15:12:34,642 - Worker_9 - ERROR - DB Error logging result for Directory Protection: table hardening_results has no column named severity
+2025-07-17 15:12:35,292 - Worker_9 - ERROR - DB Error logging result for Version Disclosure: table hardening_results has no column named severity
+2025-07-17 15:12:35,618 - Worker_9 - ERROR - DB Error logging result for Security Headers: table hardening_results has no column named severity
+2025-07-17 15:12:36,045 - Worker_9 - ERROR - DB Error logging result for Login Security: table hardening_results has no column named severity
+2025-07-17 15:12:36,100 - Worker_9 - ERROR - DB Error logging result for XML-RPC Security: table hardening_results has no column named severity
+2025-07-17 15:12:37,090 - Worker_9 - ERROR - DB Error logging result for REST API Security: table hardening_results has no column named severity
+2025-07-17 15:12:37,395 - Worker_0 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,395 - Worker_0 - INFO - Completed analysis for periodontalmedicine.org
+2025-07-17 15:12:37,395 - Worker_0 - INFO - Starting full analysis for reimelsdentistry.com
+2025-07-17 15:12:37,396 - MainThread - INFO - ✅ Thread for periodontalmedicine.org finished successfully.
+2025-07-17 15:12:37,722 - Worker_9 - ERROR - DB Error logging result for Admin Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:37,835 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,836 - Worker_7 - INFO - Completed analysis for perioimplantsnyc.com
+2025-07-17 15:12:37,836 - Worker_7 - INFO - Starting full analysis for remmersdental.com
+2025-07-17 15:12:37,836 - MainThread - INFO - ✅ Thread for perioimplantsnyc.com finished successfully.
+2025-07-17 15:12:37,868 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,868 - Worker_6 - INFO - Completed analysis for pinnacleperio.com
+2025-07-17 15:12:37,868 - Worker_6 - INFO - Starting full analysis for revolutiondentalimplants.com
+2025-07-17 15:12:37,868 - MainThread - INFO - ✅ Thread for pinnacleperio.com finished successfully.
+2025-07-17 15:12:37,869 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:37,869 - Worker_2 - INFO - Completed analysis for puredentalgroup.com
+2025-07-17 15:12:37,869 - Worker_5 - INFO - Completed analysis for premierimplantcenters.com
+2025-07-17 15:12:37,870 - Worker_8 - INFO - Completed analysis for pidentists.com
+2025-07-17 15:12:37,870 - Worker_4 - INFO - Completed analysis for progressivedental.com
+2025-07-17 15:12:37,870 - Worker_3 - INFO - Completed analysis for qdentalclinic.com
+2025-07-17 15:12:37,870 - Worker_2 - INFO - Starting full analysis for richmondsmile.com
+2025-07-17 15:12:37,870 - Worker_1 - INFO - Completed analysis for redrockperio.com
+2025-07-17 15:12:37,870 - MainThread - INFO - ✅ Thread for puredentalgroup.com finished successfully.
+2025-07-17 15:12:37,870 - Worker_5 - INFO - Starting full analysis for robertfranklindmd.com
+2025-07-17 15:12:37,870 - Worker_8 - INFO - Starting full analysis for rochesterperio.com
+2025-07-17 15:12:37,871 - Worker_4 - INFO - Starting full analysis for scarsdalepersonaldentalcare.com
+2025-07-17 15:12:37,871 - Worker_3 - INFO - Starting full analysis for sccdentalcare.com
+2025-07-17 15:12:37,871 - Worker_1 - INFO - Starting full analysis for serafinfamilydentistry.com
+2025-07-17 15:12:37,871 - MainThread - INFO - ✅ Thread for premierimplantcenters.com finished successfully.
+2025-07-17 15:12:37,872 - MainThread - INFO - ✅ Thread for pidentists.com finished successfully.
+2025-07-17 15:12:37,872 - MainThread - INFO - ✅ Thread for progressivedental.com finished successfully.
+2025-07-17 15:12:37,872 - MainThread - INFO - ✅ Thread for qdentalclinic.com finished successfully.
+2025-07-17 15:12:37,872 - MainThread - INFO - ✅ Thread for redrockperio.com finished successfully.
+2025-07-17 15:12:38,360 - Worker_9 - ERROR - DB Error logging result for Backup File Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:38,781 - Worker_9 - ERROR - DB Error logging result for Debug Information: table hardening_results has no column named severity
+2025-07-17 15:12:42,577 - Worker_0 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:42,577 - Worker_0 - INFO - Completed analysis for reimelsdentistry.com
+2025-07-17 15:12:42,577 - Worker_0 - INFO - Starting full analysis for sitwelldental.com
+2025-07-17 15:12:42,578 - MainThread - INFO - ✅ Thread for reimelsdentistry.com finished successfully.
+2025-07-17 15:12:43,005 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,006 - Worker_7 - INFO - Completed analysis for remmersdental.com
+2025-07-17 15:12:43,006 - Worker_7 - INFO - Starting full analysis for sloanslakedental.com
+2025-07-17 15:12:43,006 - MainThread - INFO - ✅ Thread for remmersdental.com finished successfully.
+2025-07-17 15:12:43,026 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,027 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,027 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,027 - Worker_2 - INFO - Completed analysis for richmondsmile.com
+2025-07-17 15:12:43,028 - Worker_5 - INFO - Completed analysis for robertfranklindmd.com
+2025-07-17 15:12:43,028 - Worker_2 - INFO - Starting full analysis for southbeachsmiles.com
+2025-07-17 15:12:43,028 - Worker_8 - INFO - Completed analysis for rochesterperio.com
+2025-07-17 15:12:43,028 - Worker_5 - INFO - Starting full analysis for sparacinoperio.com
+2025-07-17 15:12:43,029 - MainThread - INFO - ✅ Thread for richmondsmile.com finished successfully.
+2025-07-17 15:12:43,029 - Worker_8 - INFO - Starting full analysis for spartadental.com
+2025-07-17 15:12:43,030 - MainThread - INFO - ✅ Thread for robertfranklindmd.com finished successfully.
+2025-07-17 15:12:43,030 - MainThread - INFO - ✅ Thread for rochesterperio.com finished successfully.
+2025-07-17 15:12:43,035 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,036 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,036 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,036 - Worker_3 - INFO - Completed analysis for sccdentalcare.com
+2025-07-17 15:12:43,037 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:43,037 - Worker_4 - INFO - Completed analysis for scarsdalepersonaldentalcare.com
+2025-07-17 15:12:43,037 - Worker_3 - INFO - Starting full analysis for specialistsimplantcenter.com
+2025-07-17 15:12:43,037 - Worker_6 - INFO - Completed analysis for revolutiondentalimplants.com
+2025-07-17 15:12:43,038 - MainThread - INFO - ✅ Thread for sccdentalcare.com finished successfully.
+2025-07-17 15:12:43,038 - Worker_4 - INFO - Starting full analysis for ssdgsmiles.com
+2025-07-17 15:12:43,038 - Worker_1 - INFO - Completed analysis for serafinfamilydentistry.com
+2025-07-17 15:12:43,038 - Worker_6 - INFO - Starting full analysis for stmarkspainlessdental.com
+2025-07-17 15:12:43,038 - MainThread - INFO - ✅ Thread for scarsdalepersonaldentalcare.com finished successfully.
+2025-07-17 15:12:43,039 - Worker_1 - INFO - Starting full analysis for subkadds.com
+2025-07-17 15:12:43,039 - MainThread - INFO - ✅ Thread for revolutiondentalimplants.com finished successfully.
+2025-07-17 15:12:43,039 - MainThread - INFO - ✅ Thread for serafinfamilydentistry.com finished successfully.
+2025-07-17 15:12:43,611 - Worker_9 - ERROR - DB Error logging result for Plugin Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:44,024 - Worker_9 - ERROR - DB Error logging result for Theme Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:44,499 - Worker_9 - ERROR - DB Error logging result for Upload Security: table hardening_results has no column named severity
+2025-07-17 15:12:44,699 - Worker_9 - ERROR - DB Error logging result for SSL Configuration: table hardening_results has no column named severity
+2025-07-17 15:12:44,699 - Worker_9 - INFO - [lastingdentistry.com] Security audit completed
+2025-07-17 15:12:44,960 - Worker_9 - INFO - [lastingdentistry.com] Found 1 pages to analyze.
+2025-07-17 15:12:45,529 - Worker_0 - INFO - [sitwelldental.com] Starting WordPress stats collection
+2025-07-17 15:12:45,536 - Worker_0 - WARNING - [sitwelldental.com] Could not authenticate with any known credentials
+2025-07-17 15:12:48,184 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,184 - Worker_7 - INFO - Completed analysis for sloanslakedental.com
+2025-07-17 15:12:48,184 - Worker_7 - INFO - Starting full analysis for sundanceimplant.com
+2025-07-17 15:12:48,184 - MainThread - INFO - ✅ Thread for sloanslakedental.com finished successfully.
+2025-07-17 15:12:48,184 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,185 - Worker_8 - INFO - Completed analysis for spartadental.com
+2025-07-17 15:12:48,185 - Worker_8 - INFO - Starting full analysis for thefalmouthdentist.com
+2025-07-17 15:12:48,185 - MainThread - INFO - ✅ Thread for spartadental.com finished successfully.
+2025-07-17 15:12:48,211 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,211 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,211 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,211 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,211 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,211 - Worker_4 - INFO - Completed analysis for ssdgsmiles.com
+2025-07-17 15:12:48,211 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:48,212 - Worker_3 - INFO - Completed analysis for specialistsimplantcenter.com
+2025-07-17 15:12:48,212 - Worker_1 - INFO - Completed analysis for subkadds.com
+2025-07-17 15:12:48,212 - Worker_5 - INFO - Completed analysis for sparacinoperio.com
+2025-07-17 15:12:48,212 - Worker_4 - INFO - Starting full analysis for thewallingforddentist.com
+2025-07-17 15:12:48,212 - Worker_2 - INFO - Completed analysis for southbeachsmiles.com
+2025-07-17 15:12:48,212 - MainThread - INFO - ✅ Thread for ssdgsmiles.com finished successfully.
+2025-07-17 15:12:48,212 - Worker_3 - INFO - Starting full analysis for unionimplants.com
+2025-07-17 15:12:48,212 - Worker_6 - INFO - Completed analysis for stmarkspainlessdental.com
+2025-07-17 15:12:48,212 - Worker_1 - INFO - Starting full analysis for unitedimplantdentistryny.com
+2025-07-17 15:12:48,213 - Worker_5 - INFO - Starting full analysis for universaldentistry.net
+2025-07-17 15:12:48,213 - Worker_2 - INFO - Starting full analysis for vicksburgdentist.com
+2025-07-17 15:12:48,213 - MainThread - INFO - ✅ Thread for specialistsimplantcenter.com finished successfully.
+2025-07-17 15:12:48,213 - Worker_6 - INFO - Starting full analysis for westshoredentistryfl.com
+2025-07-17 15:12:48,214 - MainThread - INFO - ✅ Thread for subkadds.com finished successfully.
+2025-07-17 15:12:48,214 - MainThread - INFO - ✅ Thread for sparacinoperio.com finished successfully.
+2025-07-17 15:12:48,214 - MainThread - INFO - ✅ Thread for southbeachsmiles.com finished successfully.
+2025-07-17 15:12:48,214 - MainThread - INFO - ✅ Thread for stmarkspainlessdental.com finished successfully.
+2025-07-17 15:12:50,707 - Worker_9 - ERROR - DB Error logging SEO issue for site ID 27: database is locked
+2025-07-17 15:12:50,709 - Worker_0 - ERROR - [sitwelldental.com] Failed to save stats to DB: database is locked
+2025-07-17 15:12:50,709 - Worker_0 - INFO - [sitwelldental.com] Completed WordPress stats collection
+2025-07-17 15:12:50,709 - Worker_0 - INFO - [sitwelldental.com] Running comprehensive WordPress security audit...
+2025-07-17 15:12:51,845 - Worker_0 - ERROR - DB Error logging result for User Enumeration: table hardening_results has no column named severity
+2025-07-17 15:12:53,343 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,343 - Worker_7 - INFO - Completed analysis for sundanceimplant.com
+2025-07-17 15:12:53,343 - Worker_7 - INFO - Starting full analysis for whiteridgedental.com
+2025-07-17 15:12:53,344 - MainThread - INFO - ✅ Thread for sundanceimplant.com finished successfully.
+2025-07-17 15:12:53,345 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,345 - Worker_8 - INFO - Completed analysis for thefalmouthdentist.com
+2025-07-17 15:12:53,346 - Worker_8 - INFO - Starting full analysis for williamsportoms.com
+2025-07-17 15:12:53,346 - MainThread - INFO - ✅ Thread for thefalmouthdentist.com finished successfully.
+2025-07-17 15:12:53,380 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,381 - Worker_6 - INFO - Completed analysis for westshoredentistryfl.com
+2025-07-17 15:12:53,381 - Worker_6 - INFO - Starting full analysis for willmardentist.com
+2025-07-17 15:12:53,381 - MainThread - INFO - ✅ Thread for westshoredentistryfl.com finished successfully.
+2025-07-17 15:12:53,403 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,403 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,403 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,403 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,403 - Worker_4 - INFO - Completed analysis for thewallingforddentist.com
+2025-07-17 15:12:53,404 - Worker_2 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:53,404 - Worker_5 - INFO - Completed analysis for universaldentistry.net
+2025-07-17 15:12:53,404 - Worker_3 - INFO - Completed analysis for unionimplants.com
+2025-07-17 15:12:53,404 - Worker_1 - INFO - Completed analysis for unitedimplantdentistryny.com
+2025-07-17 15:12:53,404 - Worker_4 - INFO - Starting full analysis for winterstreetdental.com
+2025-07-17 15:12:53,404 - MainThread - INFO - ✅ Thread for thewallingforddentist.com finished successfully.
+2025-07-17 15:12:53,404 - Worker_5 - INFO - Starting full analysis for wolfydentalgroup.com
+2025-07-17 15:12:53,404 - Worker_3 - INFO - Starting full analysis for yousmiledental.com
+2025-07-17 15:12:53,405 - Worker_2 - INFO - Completed analysis for vicksburgdentist.com
+2025-07-17 15:12:53,405 - Worker_1 - INFO - Starting full analysis for yousmileimplantcenter.com
+2025-07-17 15:12:53,406 - MainThread - INFO - ✅ Thread for universaldentistry.net finished successfully.
+2025-07-17 15:12:53,407 - MainThread - INFO - ✅ Thread for unionimplants.com finished successfully.
+2025-07-17 15:12:53,408 - MainThread - INFO - ✅ Thread for unitedimplantdentistryny.com finished successfully.
+2025-07-17 15:12:53,408 - MainThread - INFO - ✅ Thread for vicksburgdentist.com finished successfully.
+2025-07-17 15:12:53,579 - Worker_0 - ERROR - DB Error logging result for Sensitive File Access: table hardening_results has no column named severity
+2025-07-17 15:12:54,638 - Worker_0 - ERROR - DB Error logging result for Directory Protection: table hardening_results has no column named severity
+2025-07-17 15:12:55,189 - Worker_0 - ERROR - DB Error logging result for Version Disclosure: table hardening_results has no column named severity
+2025-07-17 15:12:55,463 - Worker_0 - ERROR - DB Error logging result for Security Headers: table hardening_results has no column named severity
+2025-07-17 15:12:55,877 - Worker_9 - ERROR - DB Error logging SEO issue for site ID 27: database is locked
+2025-07-17 15:12:56,041 - Worker_0 - ERROR - DB Error logging result for Login Security: table hardening_results has no column named severity
+2025-07-17 15:12:56,218 - Worker_0 - ERROR - DB Error logging result for XML-RPC Security: table hardening_results has no column named severity
+2025-07-17 15:12:56,685 - Worker_0 - ERROR - DB Error logging result for REST API Security: table hardening_results has no column named severity
+2025-07-17 15:12:58,122 - Worker_0 - ERROR - DB Error logging result for Admin Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:58,501 - Worker_7 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,501 - Worker_8 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,502 - Worker_7 - INFO - Completed analysis for whiteridgedental.com
+2025-07-17 15:12:58,502 - Worker_8 - INFO - Completed analysis for williamsportoms.com
+2025-07-17 15:12:58,502 - MainThread - INFO - ✅ Thread for whiteridgedental.com finished successfully.
+2025-07-17 15:12:58,502 - MainThread - INFO - ✅ Thread for williamsportoms.com finished successfully.
+2025-07-17 15:12:58,560 - Worker_6 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,560 - Worker_3 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,561 - Worker_6 - INFO - Completed analysis for willmardentist.com
+2025-07-17 15:12:58,561 - Worker_5 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,561 - Worker_3 - INFO - Completed analysis for yousmiledental.com
+2025-07-17 15:12:58,561 - MainThread - INFO - ✅ Thread for willmardentist.com finished successfully.
+2025-07-17 15:12:58,562 - Worker_5 - INFO - Completed analysis for wolfydentalgroup.com
+2025-07-17 15:12:58,562 - MainThread - INFO - ✅ Thread for yousmiledental.com finished successfully.
+2025-07-17 15:12:58,562 - MainThread - INFO - ✅ Thread for wolfydentalgroup.com finished successfully.
+2025-07-17 15:12:58,565 - Worker_1 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,565 - Worker_4 - ERROR - Database connection error: database is locked
+2025-07-17 15:12:58,565 - Worker_1 - INFO - Completed analysis for yousmileimplantcenter.com
+2025-07-17 15:12:58,565 - Worker_4 - INFO - Completed analysis for winterstreetdental.com
+2025-07-17 15:12:58,566 - MainThread - INFO - ✅ Thread for yousmileimplantcenter.com finished successfully.
+2025-07-17 15:12:58,566 - MainThread - INFO - ✅ Thread for winterstreetdental.com finished successfully.
+2025-07-17 15:12:59,370 - Worker_0 - ERROR - DB Error logging result for Backup File Exposure: table hardening_results has no column named severity
+2025-07-17 15:12:59,712 - Worker_0 - ERROR - DB Error logging result for Debug Information: table hardening_results has no column named severity
+2025-07-17 15:13:01,059 - Worker_9 - ERROR - DB Error logging SEO issue for site ID 27: database is locked
+2025-07-17 15:13:01,060 - MainThread - ERROR - A thread generated an unhandled exception: run_local_seo_audits() takes 1 positional argument but 4 were given
+Traceback (most recent call last):
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 114, in main
+    result_domain = future.result()
+                    ^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 82, in run_full_analysis_on_domain
+    analyze_single_page(conn, session, site_id, url, domain)
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 59, in analyze_single_page
+    audit_local_seo.run_local_seo_audits(conn, site_id, url, soup)
+TypeError: run_local_seo_audits() takes 1 positional argument but 4 were given
+2025-07-17 15:13:04,304 - Worker_0 - ERROR - DB Error logging result for Plugin Enumeration: table hardening_results has no column named severity
+2025-07-17 15:13:04,601 - Worker_0 - ERROR - DB Error logging result for Theme Enumeration: table hardening_results has no column named severity
+2025-07-17 15:13:05,244 - Worker_0 - ERROR - DB Error logging result for Upload Security: table hardening_results has no column named severity
+2025-07-17 15:13:05,472 - Worker_0 - ERROR - DB Error logging result for SSL Configuration: table hardening_results has no column named severity
+2025-07-17 15:13:05,473 - Worker_0 - INFO - [sitwelldental.com] Security audit completed
+2025-07-17 15:13:06,115 - Worker_0 - INFO - [sitwelldental.com] Found 6 pages to analyze.
+2025-07-17 15:13:06,310 - MainThread - ERROR - A thread generated an unhandled exception: run_local_seo_audits() takes 1 positional argument but 4 were given
+Traceback (most recent call last):
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 114, in main
+    result_domain = future.result()
+                    ^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 82, in run_full_analysis_on_domain
+    analyze_single_page(conn, session, site_id, url, domain)
+  File "/Users/bradhanks/Dev/wp_battery/main_analyzer.py", line 59, in analyze_single_page
+    audit_local_seo.run_local_seo_audits(conn, site_id, url, soup)
+TypeError: run_local_seo_audits() takes 1 positional argument but 4 were given
+2025-07-17 15:13:06,311 - MainThread - INFO - --- All analysis tasks complete. Generating reports... ---
+2025-07-17 15:13:06,311 - MainThread - INFO - Generating CSV reports from database...
+2025-07-17 15:13:06,311 - MainThread - INFO - Generating WordPress stats report...
+2025-07-17 15:13:06,312 - MainThread - INFO - Successfully generated WordPress stats report: analysis_20250717-151306_wordpress_stats.csv
+2025-07-17 15:13:06,314 - MainThread - INFO - Successfully generated report: analysis_20250717-151306_full_page_metrics.csv
+2025-07-17 15:13:06,314 - MainThread - INFO - Successfully generated report: analysis_20250717-151306_all_seo_issues.csv
+2025-07-17 15:13:06,314 - MainThread - WARNING - No data found for report 'all_hardening_results'. Skipping CSV generation.
+2025-07-17 15:13:06,316 - MainThread - INFO - Successfully generated report: analysis_20250717-151306_all_local_seo_info.csv
+2025-07-17 15:13:06,316 - MainThread - INFO - 🎉 All operations finished in 69.91 seconds. Reports are saved with prefix 'analysis_20250717-151306'.
